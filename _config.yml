@@ -1,8 +1,1 @@
-# Site settings
-title: Filocimientos
-author:
-  name: Cecilia Ivet Molgado Garfias
-  email: cezimg@gmail.com
- description: "Filocimientos conocimientos al alcanze de todos" 
- 
-theme: jekyll-theme-minimal
+ theme: jekyll-theme-minimal
