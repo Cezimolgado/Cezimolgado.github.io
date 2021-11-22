@@ -55,7 +55,7 @@ Aquí podrás apreciar un recorrido repleto y bien pulido de humanidades digital
 
 
 ---
-## Actividad 3
+## Actividad 6
 ---
 
 ### Fragmentos de los Rasgos fundamentos de la Filosofía del Derecho  
@@ -82,6 +82,17 @@ Párrafo 37
 Párrafo 39
 
 **3**. La singularidad inmediata de la persona y que decide se relaciona con una naturaleza dada a la que se contrapone la personalidad de la voluntad como algo subjetivo, pero ésta como infinita y universal en sí (in sich) es la limitación de ser solamente subjetiva, contradictoria y nula. Ella es activo para superarla y darse realidad o, lo que es lo mismo, para poner aquella existencia empírica como la suya. 
+
+---
+## Actividad 7
+---
+### Marcado de fragmentos con etiquetas TEI
+```
+
+```
+
+
+
 
 *allan rosado*
 
