@@ -49,9 +49,7 @@ Aquí podrás apreciar un recorrido repleto y bien pulido de humanidades digital
 ---
 ## Actividad 2
 ---
-![Image](src)
-
-Actividad-2![esquema 2 imagen](https://user-images.githubusercontent.com/88803996/135978241-df29d328-2e7f-480a-9017-29aafd18678d.jpg)
+![esquema 2 imagen](https://user-images.githubusercontent.com/88803996/135978241-df29d328-2e7f-480a-9017-29aafd18678d.jpg)
 
 *allan rosado*
 
