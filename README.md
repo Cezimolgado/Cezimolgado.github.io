@@ -45,6 +45,14 @@ Aquí podrás apreciar un recorrido repleto y bien pulido de humanidades digital
 +	Otras de las formas en las que se le conoce son: recursos digitales para las humanidades, cómputo para las humanidades, cómputo en las humanidades, informática digital y cultural, informática para las humanidades.
 +	Los objetivos de las Humanidades digitales son: Crear bases de datos con recursos digitales relevantes para las Humanidades. Esto incluye la captura, estructuración, documentación, preservación y diseminación de los datos, Desarrollar metodologías que permitan generar nuevos elementos derivados de estos datos, Generar investigación y conocimiento para incrementar nuestra comprensión en las Humanidades.
 
+
+---
+## Actividad 2
+---
+![Image](src)
+
+Actividad-2![esquema 2 imagen](https://user-images.githubusercontent.com/88803996/135978241-df29d328-2e7f-480a-9017-29aafd18678d.jpg)
+
 *allan rosado*
 
 **allan rosado**
