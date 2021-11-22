@@ -71,17 +71,17 @@ Párrafo 35
 
 Párrafo 36
 
-1. La personalidad contiene en general la capacidad jurídica y constituye el concepto y el fundamento abstracto del derecho abstracto y, por consiguiente, formal. Por consiguiente, el mandamiento jurídico es: sé una persona y respeta a los otros como personas.
+**1.** La personalidad contiene en general la capacidad jurídica y constituye el concepto y el fundamento abstracto del derecho abstracto y, por consiguiente, formal. Por consiguiente, el mandamiento jurídico es: sé una persona y respeta a los otros como personas.
 
 
 Párrafo 37
 
-2. Desde luego, la particularidad de la voluntad es momento de la conciencia total de la voluntad (párrafo 34), pero aún no está contenida en la personalidad abstracta como tal. Por tanto, ella está ciertamente presente, pero como deseo, necesidad vital, instinto, antojo accidental, etc., distinta de la personalidad, de la determinación de la libertad, por consiguiente, en el derecho formal no se trata del interés particular, de mi utilidad o mi bienestar, ni tampoco del fundamento de determinación de mi voluntad, de la compresión e intención.
+**2.** Desde luego, la particularidad de la voluntad es momento de la conciencia total de la voluntad (párrafo 34), pero aún no está contenida en la personalidad abstracta como tal. Por tanto, ella está ciertamente presente, pero como deseo, necesidad vital, instinto, antojo accidental, etc., distinta de la personalidad, de la determinación de la libertad, por consiguiente, en el derecho formal no se trata del interés particular, de mi utilidad o mi bienestar, ni tampoco del fundamento de determinación de mi voluntad, de la compresión e intención.
 
 
 Párrafo 39
 
-3. La singularidad inmediata de la persona y que decide se relaciona con una naturaleza dada a la que se contrapone la personalidad de la voluntad como algo subjetivo, pero ésta como infinita y universal en sí (in sich) es la limitación de ser solamente subjetiva, contradictoria y nula. Ella es activo para superarla y darse realidad o, lo que es lo mismo, para poner aquella existencia empírica como la suya. 
+**3**. La singularidad inmediata de la persona y que decide se relaciona con una naturaleza dada a la que se contrapone la personalidad de la voluntad como algo subjetivo, pero ésta como infinita y universal en sí (in sich) es la limitación de ser solamente subjetiva, contradictoria y nula. Ella es activo para superarla y darse realidad o, lo que es lo mismo, para poner aquella existencia empírica como la suya. 
 
 *allan rosado*
 
