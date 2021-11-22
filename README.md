@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Filocimientos
+
+Donde todos son bienvenidos aquí podras apreciar un recorrido repleto y bien pulido de 
+humanidades digitales.A continuacion se pone a su disposición una serie de actividades 
+que versan sobre la naturaleza del texto digital; así como una pequeña recopilación de párrafos sobre la 
+Filosofía del Derecho hegeliano.
 
 *allan rosado*
 
