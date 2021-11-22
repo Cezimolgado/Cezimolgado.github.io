@@ -9,10 +9,8 @@
 - viñeta
 1. lista
 2. consecutiva
-3. 
-[Link](https://www.youtube.com/watch?v=t_4e19iM5U8) and ! 
 
-[Image](![11054522_875056589214723_1608754122691650747_o](https://user-images.githubusercontent.com/88803996/142908231-87690e29-83cc-4d3a-9983-20d1b8bc961e.jpg))
+
 You can use the [editor on GitHub](https://github.com/Cezimolgado/Filocimientos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
