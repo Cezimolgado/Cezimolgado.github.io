@@ -1,1 +1,9 @@
- theme: jekyll-theme-minimal
+# Site settings
+title: Filocimientos
+author:
+  name: Cecilia Ivete Molgado Garfias
+  email: cezimg@gmail.com
+description: "Sito de la clase de Historia de la filosofía III"
+
+# Build settings
+remote_theme: jekyll/minima
