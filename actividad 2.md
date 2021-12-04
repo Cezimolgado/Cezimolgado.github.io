@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Actividad 1
+title: Actividad 2
 ---
 ### Cuadro comparativo
 
