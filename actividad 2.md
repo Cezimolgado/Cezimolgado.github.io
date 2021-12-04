@@ -1,5 +1,6 @@
 ---
-## Actividad 2
+layout: page
+title: Actividad 1
 ---
 ### Cuadro comparativo
 
