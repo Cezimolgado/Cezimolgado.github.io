@@ -3,9 +3,6 @@ layout: page
 title: Actividad 7
 ----
 
----
-## Actividad 7
----
 ### Marcado de fragmentos con etiquetas TEI
 ```
 <?xml version="1.0" encoding="UTF-8"?>
