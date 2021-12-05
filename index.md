@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Filocimientos
-
 ¡El lugar donde todos son bienvenidos! 
 El único requisito son ganas de aprender y divertirse. 
 
