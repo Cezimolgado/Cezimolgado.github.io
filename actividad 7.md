@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Actividad 7
-----
+---
 
 ### Marcado de fragmentos con etiquetas TEI
 ```
