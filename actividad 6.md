@@ -2,9 +2,6 @@
 layout: page
 title: Actividad 6
 ---
----
-## Actividad 6
----
 
 ### Fragmentos de los Rasgos fundamentos de la Filosofía del Derecho  
 #### Primera parte: EL DERECHO ABSTRACTO 
